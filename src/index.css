@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body
+  {
+      background-color: whitesmoke;
+  }
+.cont
+{
+    width: 420px;
+    height: fit-content;
+    background-color: whitesmoke;
+    display: inline-table;
+    border-width: 10px;
+    border-style: solid;
+    
+}
+.found
+{
+    width: 420px;
+    height: fit-content;
+    background-color: whitesmoke;
+    display:inline-table;
+    border-width: 10px;
+    border-style: solid;
+}
+  button
+  {
+      background-color: white;
+      width: 100PX;
+      
+      display:inline-flex;
+  }
+
+  button.t1a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+  button.t2a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+  button.t3a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+  button.t4a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+  button.t5a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+
+  button.t6a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+  button.t7a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+  button.t8a
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./uvgLogo.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+
+
+  button.t1b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./mirai.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+
+  button.t2b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./misaka.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t3b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./mizuhara.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t4b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./kaguya.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t5b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./kyouka.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t6b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./togame.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t7b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./shirase.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.t8b
+  {
+      background-color: black;
+      width: 100PX;
+      background-image: url('./senjougahara.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:inline-flex;
+  }
+  button.retry
+  {
+    background-color: black;
+    width: 100PX;
+    height: 100px;
+    background-image: url('./retry.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
